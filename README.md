@@ -6,7 +6,7 @@ A Simple Gym Joining Form
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot_20230713_091911](https://github.com/AbuZaid55/Gym_Joining_Form/assets/115403447/6488afab-8716-4781-b2b9-a6a07bdad18e)
 
 
 ## 🔗 Links
